@@ -1,0 +1,6 @@
+---
+- name: tags confiugre
+  hosts: dev
+  tasks:
+    
+
