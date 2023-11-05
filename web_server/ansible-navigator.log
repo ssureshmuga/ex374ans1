@@ -1,8 +1,0 @@
-2023-11-05T08:57:33.166824+00:00 WARNING 'ansible_navigator.image_manager.puller._log_message' Image inspection failed, image assumed to be corrupted or missing
-2023-11-05T08:57:33.639925+00:00 ERROR 'ansible_navigator.image_manager.puller._log_message' Execution environment pull failed
-2023-11-05T09:00:45.305274+00:00 WARNING 'ansible_navigator.image_manager.puller._log_message' Image inspection failed, image assumed to be corrupted or missing
-2023-11-05T09:00:45.710711+00:00 ERROR 'ansible_navigator.image_manager.puller._log_message' Execution environment pull failed
-2023-11-05T09:01:46.432584+00:00 WARNING 'ansible_navigator.image_manager.puller._log_message' Image inspection failed, image assumed to be corrupted or missing
-2023-11-05T09:01:46.840597+00:00 ERROR 'ansible_navigator.image_manager.puller._log_message' Execution environment pull failed
-2023-11-05T09:01:59.432162+00:00 WARNING 'ansible_navigator.image_manager.puller._log_message' Image inspection failed, image assumed to be corrupted or missing
-2023-11-05T09:01:59.851872+00:00 ERROR 'ansible_navigator.image_manager.puller._log_message' Execution environment pull failed
