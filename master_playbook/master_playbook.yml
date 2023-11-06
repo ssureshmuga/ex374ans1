@@ -1,6 +1,6 @@
 ---
 - name: create variable
-  hosts: all
+  hosts: webservers
   tasks:
     - name: create a directory
       ansible.builtin.file:
